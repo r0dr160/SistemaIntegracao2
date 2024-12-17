@@ -1,0 +1,6 @@
+C:\repositories\MEIW\IS\SistemaIntegracao2\GrpcService1\GrpcService1\obj\Debug\net8.0\EuroMilRegisterClient.csproj.AssemblyReference.cache
+C:\repositories\MEIW\IS\SistemaIntegracao2\GrpcService1\GrpcService1\obj\Debug\net8.0\EuroMilRegisterClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositories\MEIW\IS\SistemaIntegracao2\GrpcService1\GrpcService1\obj\Debug\net8.0\EuroMilRegisterClient.AssemblyInfoInputs.cache
+C:\repositories\MEIW\IS\SistemaIntegracao2\GrpcService1\GrpcService1\obj\Debug\net8.0\EuroMilRegisterClient.AssemblyInfo.cs
+C:\repositories\MEIW\IS\SistemaIntegracao2\GrpcService1\GrpcService1\obj\Debug\net8.0\EuroMilRegisterClient.csproj.CoreCompileInputs.cache
+C:\repositories\MEIW\IS\SistemaIntegracao2\GrpcService1\GrpcService1\obj\Debug\net8.0\EuroMilRegisterClient.MvcApplicationPartsAssemblyInfo.cache

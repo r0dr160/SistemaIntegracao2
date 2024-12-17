@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "FqXVVk0T4OM=",
+  "success": true,
+  "projectFilePath": "C:\\repositories\\MEIW\\IS\\SistemaIntegracao2\\GrpcService1\\GrpcService1\\GrpcService1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RC\\.nuget\\packages\\google.protobuf\\3.24.0\\google.protobuf.3.24.0.nupkg.sha512",
+    "C:\\Users\\RC\\.nuget\\packages\\grpc.core.api\\2.57.0\\grpc.core.api.2.57.0.nupkg.sha512",
+    "C:\\Users\\RC\\.nuget\\packages\\grpc.net.client\\2.57.0\\grpc.net.client.2.57.0.nupkg.sha512",
+    "C:\\Users\\RC\\.nuget\\packages\\grpc.net.common\\2.57.0\\grpc.net.common.2.57.0.nupkg.sha512",
+    "C:\\Users\\RC\\.nuget\\packages\\grpc.tools\\2.68.1\\grpc.tools.2.68.1.nupkg.sha512",
+    "C:\\Users\\RC\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

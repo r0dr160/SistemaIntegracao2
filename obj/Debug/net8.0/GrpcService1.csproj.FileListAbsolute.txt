@@ -1,0 +1,6 @@
+C:\repositories\MEIW\IS\SistemaIntegracao2\GrpcService1\GrpcService1\obj\Debug\net8.0\GrpcService1.csproj.AssemblyReference.cache
+C:\repositories\MEIW\IS\SistemaIntegracao2\GrpcService1\GrpcService1\obj\Debug\net8.0\GrpcService1.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositories\MEIW\IS\SistemaIntegracao2\GrpcService1\GrpcService1\obj\Debug\net8.0\GrpcService1.AssemblyInfoInputs.cache
+C:\repositories\MEIW\IS\SistemaIntegracao2\GrpcService1\GrpcService1\obj\Debug\net8.0\GrpcService1.AssemblyInfo.cs
+C:\repositories\MEIW\IS\SistemaIntegracao2\GrpcService1\GrpcService1\obj\Debug\net8.0\GrpcService1.csproj.CoreCompileInputs.cache
+C:\repositories\MEIW\IS\SistemaIntegracao2\GrpcService1\GrpcService1\obj\Debug\net8.0\GrpcService1.MvcApplicationPartsAssemblyInfo.cache
